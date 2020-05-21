@@ -7,5 +7,5 @@ Projekt używa React'a i API Twitch'a.
 ```
 $ npm start
 ```
-![test image 1](/images/test1.png)
-![test image 2](/images/test2.png)
+![test image 1](/src/images/test1.png)
+![test image 2](/src/images/test2.png)
