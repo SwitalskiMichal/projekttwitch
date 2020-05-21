@@ -1,0 +1,66 @@
+.live-card {
+	 position: relative;
+	 background: #deb9fd;
+	 float: left;
+	 margin: 7px;
+}
+ .live-card img {
+	 border-radius: 5px;
+}
+ .live-viewers {
+	 font-family: Roboto;
+	 position: absolute;
+	 margin-top: 0;
+	 bottom: 54px;
+	 color: red;
+	 padding-right: 3px;
+	 right: 5px;
+	 font-size: 14px;
+	 font-weight: 600;
+	 background-color: white;
+	 border-radius: 5px;
+	 display: inline-flex;
+	 vertical-align: middle;
+	 line-height: 1.8;
+}
+ .live-streamerLogo img {
+	 float: left;
+	 width: 60px;
+	 height: 60px;
+	 border-radius: 5px;
+}
+ .live-infoPart {
+	 position: relative;
+	 max-width: 320px;
+	 float: left;
+	 top: 0px;
+	 left: 5px;
+	 font-family: Roboto;
+}
+ .live-status {
+	 white-space: nowrap;
+	 overflow: hidden;
+	 text-overflow: ellipsis;
+	 margin-top: 2px;
+	 margin-bottom: 0px;
+	 font-size: 13px;
+	 max-width: 250px;
+}
+ .live-streamerName {
+	 margin-top: 0;
+	 margin-bottom: 0;
+	 font-size: 13px;
+	 text-decoration: none;
+	 color: black;
+}
+ .live-gameName {
+	 margin-top: 0;
+	 margin-bottom: 0px;
+	 font-size: 12px;
+	 overflow: hidden;
+	 white-space: nowrap;
+	 max-width: 250px;
+	 text-decoration: none;
+	 color: black;
+}
+ 
